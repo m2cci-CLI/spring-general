@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.training.springcore.service.measure.FixedMeasureServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-03-11T12:45:51" hostname="DESKTOP-M9GIHF6" time="0.121">
+  <properties/>
+  <testcase name="readMeasuresThrowsExceptionWhenArgIsNull" classname="com.training.springcore.service.measure.FixedMeasureServiceTest" time="0.092"/>
+  <testcase name="readMeasures" classname="com.training.springcore.service.measure.FixedMeasureServiceTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mars 11, 2019 1:45:51 PM org.springframework.test.context.support.AbstractTestContextBootstrapper getDefaultTestExecutionListenerClassNames
+INFOS: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+mars 11, 2019 1:45:51 PM org.springframework.test.context.support.AbstractTestContextBootstrapper getTestExecutionListeners
+INFOS: Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4613dd2d, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@519e45c8, org.springframework.test.context.support.DirtiesContextTestExecutionListener@a0ff886]
+mars 11, 2019 1:45:51 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFOS: Refreshing org.springframework.context.support.GenericApplicationContext@54ee439a: startup date [Mon Mar 11 13:45:51 CET 2019]; root of context hierarchy
+]]></system-err>
+</testsuite>
